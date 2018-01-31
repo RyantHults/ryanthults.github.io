@@ -34,8 +34,8 @@
     }
 
     a:hover {
-        color:  #2d96c4;
-        border-bottom-color: #2d96c4;
+        color:  #700;
+        border-bottom-color: #700;
     }
 
     img {
@@ -90,7 +90,7 @@
     }
 
     .content_subtitle {
-        color: #2d96c4;
+        color: #700;
         font-size: 1.5rem;
         margin-top: 2%;
         margin-bottom: -2%;
