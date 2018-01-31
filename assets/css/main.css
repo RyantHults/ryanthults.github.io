@@ -60,6 +60,7 @@
         min-width: 370px;
         position: relative;
         box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.2);
+        padding: 15px;
     }
 
     .frame {
@@ -109,8 +110,7 @@
     .nav {
         justify-content: space-between;
         box-sizing: border-box;
-        margin-top: 50px;
-        margin-bottom: 15px;
+        margin-top: 62px;
     }
 
     .nav_section {
@@ -293,6 +293,7 @@
     .frame {
         float: none;
         margin: 0;
+        margin-top: 15px;
     }
     .nav {
         margin: 15px;
