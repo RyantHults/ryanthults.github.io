@@ -19,7 +19,6 @@
         width: 100vw;
         height: 100vh;
         overflow-x: hidden;
-        padding: 0vw 3vw;
         margin: 0;
         min-width: 320px;
     }
@@ -299,9 +298,8 @@
         margin: 15px;
     }
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 425px) {
     .app {
-        margin-left: 0;
-        margin-right: 0;
+        margin: 10px;
     }
 }
